@@ -5,7 +5,7 @@ Example codes to study and understand more about the Go basic. Also notes about 
 
 ## Scope of Work 
 ### Getting Started
-- [ ] Go hello world
+- [x] [Go hello world](helloworld/) 
 - [ ] Go Project 
 - [ ] Unit Test 
 - [ ] Go IDE 
